@@ -35,7 +35,8 @@
 		<module>27-algorithms</module>
 		<module>db</module>
 		<module>twitter</module>
-	</modules>
+        <module>Zadania</module>
+    </modules>
 	<packaging>pom</packaging>
 	<name>sdacademy-examples</name>
 
